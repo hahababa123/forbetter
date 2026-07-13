@@ -1,3 +1,5 @@
-bert_scorer_results/"__pycache__/" 
-"*.pyc" 
-".env" 
+bert_scorer_results/ 
+__pycache__/ 
+*.pyc 
+.env 
+*.log 
